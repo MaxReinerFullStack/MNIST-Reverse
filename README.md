@@ -1,6 +1,4 @@
-<snippet>
-  <content><![CDATA[
-# ${1:MNIST-Reverse}
+# MNIST-Reverse Demo
 Python-based neural network which generates a sample reverse input after being trained with MNIST data. 
 ## Command line input
     cd src
@@ -23,8 +21,5 @@ Then the following image will be displayed:
 
 https://github.com/MaxReinerFullStack/MNIST-Reverse/blob/master/scraps/number_3.png
 
-## Original code forked from https://github.com/nathansegan/mnist_neural_network
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
+Code forked from https://github.com/nathansegan/mnist_neural_network
 
